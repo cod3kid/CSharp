@@ -1,0 +1,14 @@
+/Users/itachi/Desktop/CSharp/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/itachi/Desktop/CSharp/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/itachi/Desktop/CSharp/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/itachi/Desktop/CSharp/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/itachi/Desktop/CSharp/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/itachi/Desktop/CSharp/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll

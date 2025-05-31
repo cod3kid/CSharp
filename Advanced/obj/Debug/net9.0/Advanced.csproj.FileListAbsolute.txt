@@ -1,0 +1,14 @@
+/Users/itachi/Desktop/CSharp/Advanced/bin/Debug/net9.0/Advanced
+/Users/itachi/Desktop/CSharp/Advanced/bin/Debug/net9.0/Advanced.deps.json
+/Users/itachi/Desktop/CSharp/Advanced/bin/Debug/net9.0/Advanced.runtimeconfig.json
+/Users/itachi/Desktop/CSharp/Advanced/bin/Debug/net9.0/Advanced.dll
+/Users/itachi/Desktop/CSharp/Advanced/bin/Debug/net9.0/Advanced.pdb
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/Advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/Advanced.AssemblyInfoInputs.cache
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/Advanced.AssemblyInfo.cs
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/Advanced.csproj.CoreCompileInputs.cache
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/Advanced.dll
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/refint/Advanced.dll
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/Advanced.pdb
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/Advanced.genruntimeconfig.cache
+/Users/itachi/Desktop/CSharp/Advanced/obj/Debug/net9.0/ref/Advanced.dll
