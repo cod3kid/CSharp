@@ -1,0 +1,42 @@
+# Ignore build outputs from all projects
+**/bin/
+**/obj/
+**/out/
+
+# Ignore user-specific and IDE files
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Test results
+**/TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testlog
+
+# Entity Framework Migrations (optional)
+**/migrations/
+
+# ASP.NET or Blazor static files
+**/wwwroot/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+
+# Other common ignores
+.DS_Store
+Thumbs.db
+*.pidb
+*.db
+artifacts/
